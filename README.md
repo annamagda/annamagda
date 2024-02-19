@@ -1,5 +1,4 @@
-- Hi, I’m @annamagda
-- Pronouns: she/her 
+- Hi, I’m @annamagda (she/her)
 - I'm a political and medical anthropologist with a background in public health. I teach at Haverford College, where I run the interdisciplinary <a href="https://www.haverford.edu/health-studies">Health Studies</a> minor.   
 - I'm an ethnographer and qualitative researcher, with experience designing monitoring and evaluation frameworks and household surveys. I'm interested in quantification, critical data studies, and data ethics.  
 - I’m currently learning QGIS and R.  
